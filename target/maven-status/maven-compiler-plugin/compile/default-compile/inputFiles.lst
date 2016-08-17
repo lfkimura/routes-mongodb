@@ -1,0 +1,7 @@
+/home/luis/git/wm-routes/src/main/java/lfkimura/routes/rest/RoutesResource.java
+/home/luis/git/wm-routes/src/main/java/lfkimura/routes/service/RoutesService.java
+/home/luis/git/wm-routes/src/main/java/lfkimura/JerseyConfig.java
+/home/luis/git/wm-routes/src/main/java/lfkimura/App.java
+/home/luis/git/wm-routes/src/main/java/lfkimura/model/Trail.java
+/home/luis/git/wm-routes/src/main/java/lfkimura/repository/RouteRepository.java
+/home/luis/git/wm-routes/src/main/java/lfkimura/model/Route.java

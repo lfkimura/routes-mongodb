@@ -1,0 +1,7 @@
+lfkimura/model/Route.class
+lfkimura/routes/rest/RoutesResource.class
+lfkimura/model/Trail.class
+lfkimura/routes/service/RoutesService.class
+lfkimura/App.class
+lfkimura/repository/RouteRepository.class
+lfkimura/JerseyConfig.class
